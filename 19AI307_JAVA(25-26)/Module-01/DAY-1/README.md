@@ -24,6 +24,12 @@ Create a class Car with attributes brand, model, year. Create 2 objects and prin
 Program to implement variables and Operators using Java
 Developed by: K.Mohamed Althaf
 RegisterNumber:  212224240089
+*/
+```
+
+## Sourcecode.java:
+
+```
 class Car {
     String brand;
     String model;
@@ -46,13 +52,7 @@ public class prog {
         System.out.println("Car 2: " + car2.brand + " " + car2.model + " " + car2.year);
     }
 }
-
-*/
 ```
-
-## Sourcecode.java:
-
-
 
 
 
@@ -66,3 +66,4 @@ public class prog {
 ## RESULT:
 
 Program executed successfully.
+

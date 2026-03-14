@@ -19,15 +19,12 @@ To write a Java program that defines a method cube(int x) which internally calls
 5. End the program.
 
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Methods using Java
-Developed by : Afsar Jumail S
-Register Number : 212222240004
+Developed by : K.Moahmed Althaf
+Register Number : 212224240089
 */
 ```
 

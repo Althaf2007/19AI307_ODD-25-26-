@@ -4,7 +4,7 @@
 
 ## AIM:
 
-To define a class Car with attributes brand, color, and year; create two objects of the class; assign values to their attributes; and print the details of both cars.
+To define a class Car with attributes brand, color, and year.Create two objects of the class.Assign values to their attributes and print the details of both cars.
 
 ## ALGORITHM :
 

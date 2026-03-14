@@ -2,9 +2,11 @@
 
 ## QUESTION:
 
+To write a Java program that initializes object variables using a constructor and overrides the toString() method to display object details in a readable format.
+
 ## AIM:
 
-To write a Java program that initializes object variables using a constructor and overrides the toString() method to display object details in a readable format.
+To demonstrate the use of a constructor for initializing object variables and overriding the toString() method to display object details.
 
 ## ALGORITHM :
 
@@ -68,11 +70,9 @@ public class StudentDemo {
 <img width="896" height="395" alt="image" src="https://github.com/user-attachments/assets/0b280b01-a09a-4749-b733-41411f01b00a" />
 
 
-
-
 ## RESULT:
 
-Program executed successfully.
+The object details are successfully displayed in a formatted and readable manner.
 
 
 

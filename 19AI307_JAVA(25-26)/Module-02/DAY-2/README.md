@@ -8,22 +8,22 @@ To write a Java program that defines a method cube(int x) which internally calls
 
 ## ALGORITHM :
 
-1. Define a class demo with two methods
+1.Define a class demo with two methods
 
-2. In the main class, read an integer input from the user.
+2.In the main class, read an integer input from the user.
 
-3. Create an object of the demo class.
+3.Create an object of the demo class.
 
-4. Call the cube() method using the object and print the result.
+4.Call the cube() method using the object and print the result.
 
-5. End the program.
+5.End the program.
 
 
 ## PROGRAM:
  ```
 /*
 Program to implement a Methods using Java
-Developed by : K.Moahmed Althaf
+Developed by : K.Mohamed Althaf
 Register Number : 212224240089
 */
 ```

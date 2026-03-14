@@ -2,9 +2,11 @@
 
 ## QUESTION:
 
+To write a Java program that defines a method cube(int x) which internally calls the method square(int x) to compute the cube of a number.
+
 ## AIM:
 
-To write a Java program that defines a method cube(int x) which internally calls the method square(int x) to compute the cube of a number.
+To write a Java program that defines a method cube(int x) which internally calls the method square(int x) to calculate the cube of a number.
 
 ## ALGORITHM :
 
@@ -64,7 +66,7 @@ public class main
 
 ## RESULT:
 
-Program executed successfully.
+The cube of the given number is calculated and displayed successfully.
 
 
 

@@ -2,9 +2,11 @@
 
 ## QUESTION:
 
+To write a Java program that defines a class BankAccount with private attributes accountNumber and balance,and provides public getter and setter methods to access and modify these values.
+
 ## AIM:
 
-To write a Java program that defines a class BankAccount with private attributes accountNumber and balance,and provides public getter and setter methods to access and modify these values.
+To implement encapsulation in Java by creating a class BankAccount with private variables and accessing them using public getter and setter methods.
 
 ## ALGORITHM :
 
@@ -84,7 +86,7 @@ public class prog {
 
 ## RESULT:
 
-Program executed successfully.
+The account number and balance are successfully stored and retrieved using getter and setter methods.
 
 
 

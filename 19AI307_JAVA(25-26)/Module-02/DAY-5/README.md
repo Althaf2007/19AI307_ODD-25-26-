@@ -2,9 +2,11 @@
 
 ## QUESTION:
 
+To create an Employee class where the display() method returns the current object using this, and demonstrate calling display().printName() from another method.
+
 ## AIM:
 
-To create an Employee class where the display() method returns the current object using this, and demonstrate calling display().printName() from another method.
+To demonstrate the use of the this keyword by returning the current object and implementing method chaining in a Java class.
 
 ## ALGORITHM :
 
@@ -69,7 +71,7 @@ class prog {
 
 ## RESULT:
 
-Program executed successfully.
+The employee name is displayed successfully using method chaining.
 
 
 

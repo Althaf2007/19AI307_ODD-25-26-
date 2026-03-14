@@ -8,11 +8,16 @@
 Create a class Car with attributes brand, model, year. Create 2 objects and print their details.
 
 ## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
 
+1.Start the program.
 
+2.Create a class Car with variables brand, model, and year.
+
+3.In the main method, create two objects car1 and car2 of class Car.
+
+4.Assign values to the variables of both car objects.
+
+5.Display the details of both cars using System.out.println() and end the program.
 
 
 
@@ -59,6 +64,8 @@ public class prog {
 
 ## OUTPUT:
 
-
+<img width="597" height="685" alt="image" src="https://github.com/user-attachments/assets/05ebe553-f279-4f17-b125-675b4afd47bd" />
 
 ## RESULT:
+
+Program executed successfully.

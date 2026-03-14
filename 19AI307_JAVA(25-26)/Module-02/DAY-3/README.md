@@ -4,7 +4,7 @@
 
 ## AIM:
 
-To write a Java program that defines a class BankAccount with private attributes accountNumber and balance, and provides public getter and setter methods to access and modify these values.
+To write a Java program that defines a class BankAccount with private attributes accountNumber and balance,and provides public getter and setter methods to access and modify these values.
 
 ## ALGORITHM :
 

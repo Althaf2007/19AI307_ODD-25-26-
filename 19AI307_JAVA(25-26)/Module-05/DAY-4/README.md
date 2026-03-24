@@ -27,8 +27,8 @@ The thread names are taken from the user, and their priorities are set to 4 and 
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: GOGINENI BIDHISHA
-RegisterNumber: 212223040048 
+Developed by: K.Mohamed Althaf
+RegisterNumber: 212224240089 
 */
 ```
 
